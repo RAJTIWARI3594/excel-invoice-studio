@@ -1,0 +1,5 @@
+[project]
+name = "excel-invoice-studio"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = ["openpyxl==3.1.5"]

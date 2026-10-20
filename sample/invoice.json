@@ -1,0 +1,25 @@
+{
+  "number": "SYN-Q-2026-001",
+  "customer": "Synthetic Campus Supplies",
+  "paid": 500,
+  "lines": [
+    {
+      "description": "Notebook pack",
+      "quantity": 4,
+      "unit_price": 125.5,
+      "tax_percent": 5
+    },
+    {
+      "description": "Desk lamp",
+      "quantity": 2,
+      "unit_price": 749,
+      "tax_percent": 12
+    },
+    {
+      "description": "Pen set",
+      "quantity": 3,
+      "unit_price": 90,
+      "tax_percent": 5
+    }
+  ]
+}
